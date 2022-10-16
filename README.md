@@ -1,5 +1,5 @@
 <div align = "center">
- <img width="" height="" src="/public/images/Capture-removebg-preview.png" alt="">
+ <img width="" height="" src="https://raw.githubusercontent.com/tannu610/envision/main/envision-main/public/images/Capture-removebg-preview.png">
 </div>
   <div align="center"> 
  
