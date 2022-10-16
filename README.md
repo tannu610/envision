@@ -17,8 +17,8 @@ In any country democratic voting is the most important event that allow its citi
 
 The Internet voting system tends to maximize user participation, by allowing them to vote from anywhere and allowing access from different computer systems and from any device that has an internet connection. Voting on the Internet provides a safe and private channel that allows all users to participate on equal terms. Increased accessibility for residents abroad and for persons with difficulties in travelling or reduced mobility. This also has a positive impact on the final turnout and therefore on the legitimacy of the election. The reduction in organizational and implementation costs significantly increases the efficiency of election management compared to the offline voting system.
 
- <img width="" height="" src="/public/images/env1.PNG" alt="">
- <img width="" height="" src="/public/images/env4.PNG" alt="">
+ <img width="" height="" src="https://raw.githubusercontent.com/tannu610/envision/main/envision-main/public/images/env1.PNG">
+ <img width="" height="" src="https://raw.githubusercontent.com/sukesh2000/envision/main/public/images/env4.PNG">
 
 ## Technologies used:
 - Node.js
